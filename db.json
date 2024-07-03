@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "description": "High-quality wireless Bluetooth headphones with noise cancellation, long battery life, and comfortable ear cushions.",
+      "price": "$150",
+      "image": "https://via.placeholder.com/200x150"
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch with Heart Rate Monitor",
+      "description": "Advanced smartwatch featuring heart rate monitoring, GPS tracking, and a sleek, waterproof design.",
+      "price": "$120",
+      "image": "https://via.placeholder.com/200x150"
+    },
+    {
+      "id": 3,
+      "name": "4K Ultra HD Smart TV",
+      "description": "Experience stunning picture quality with this 55-inch 4K Ultra HD Smart TV, equipped with all your favorite streaming apps.",
+      "price": "$600",
+      "image": "https://via.placeholder.com/200x150"
+    }
+  ]
+}
